@@ -1,9 +1,9 @@
-https://counterapi.com/api/mysite.com/view/product123?readOnly=true&startNumber=42000
+https://counterapi.com/api/inicio-landata.hub.arcgis.com/view/product123?readOnly=true&startNumber=42000
 ⇒ 200 {
   "value": 42005,
   "abv": "42K"
   "ns":"mysite.com",
   "action":"view",
   "key":"product123",
-  "statsUrl":"https://counterapi.com/ https://inicio-landata.hub.arcgis.com//view/product123"
+  "statsUrl":"https://counterapi.com/inicio-landata.hub.arcgis.com/view/product123"
 }
